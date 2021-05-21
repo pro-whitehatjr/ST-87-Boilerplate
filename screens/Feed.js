@@ -84,7 +84,7 @@ export default class Feed extends Component {
                     : styles.appTitleText
                 }
               >
-                Story Telling App
+                Storytelling App
               </Text>
             </View>
           </View>
